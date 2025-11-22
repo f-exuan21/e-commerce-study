@@ -1,7 +1,7 @@
 package kr.hhplus.be.server.ecommerce.application.port.out;
 
-import kr.hhplus.be.server.ecommerce.domain.model.Money;
-import kr.hhplus.be.server.ecommerce.domain.model.Product;
+import kr.hhplus.be.server.ecommerce.domain.model.money.Money;
+import kr.hhplus.be.server.ecommerce.domain.model.product.Product;
 
 import java.util.List;
 

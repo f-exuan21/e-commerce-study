@@ -8,7 +8,7 @@ import kr.hhplus.be.server.ecommerce.application.port.out.PaymentPort;
 import kr.hhplus.be.server.ecommerce.application.port.out.SaveOrderPort;
 import kr.hhplus.be.server.ecommerce.application.port.out.TakeOutProductPort;
 import kr.hhplus.be.server.ecommerce.domain.exception.OutOfStockException;
-import kr.hhplus.be.server.ecommerce.domain.model.Money;
+import kr.hhplus.be.server.ecommerce.domain.model.money.Money;
 import kr.hhplus.be.server.ecommerce.domain.policy.PricingPolicy;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
