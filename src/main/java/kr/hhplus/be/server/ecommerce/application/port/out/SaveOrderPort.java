@@ -1,6 +1,6 @@
 package kr.hhplus.be.server.ecommerce.application.port.out;
 
-import kr.hhplus.be.server.ecommerce.domain.model.Order;
+import kr.hhplus.be.server.ecommerce.domain.model.order.Order;
 
 public interface SaveOrderPort {
     

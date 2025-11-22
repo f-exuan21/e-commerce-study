@@ -4,7 +4,7 @@ import jakarta.transaction.Transactional;
 import kr.hhplus.be.server.ecommerce.application.port.dto.ProductQueryResult;
 import kr.hhplus.be.server.ecommerce.application.port.in.ProductQueryUseCase;
 import kr.hhplus.be.server.ecommerce.application.port.out.LoadProductPort;
-import kr.hhplus.be.server.ecommerce.domain.model.Product;
+import kr.hhplus.be.server.ecommerce.domain.model.product.Product;
 
 import java.util.List;
 

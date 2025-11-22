@@ -5,7 +5,7 @@ import kr.hhplus.be.server.ecommerce.application.port.dto.ChargeCommand;
 import kr.hhplus.be.server.ecommerce.application.port.in.ChargePointUseCase;
 import kr.hhplus.be.server.ecommerce.application.port.out.PointBalancePort;
 import kr.hhplus.be.server.ecommerce.application.port.out.SavePointHistoryPort;
-import kr.hhplus.be.server.ecommerce.domain.model.PointEvent;
+import kr.hhplus.be.server.ecommerce.domain.model.point.PointEvent;
 import org.springframework.stereotype.Service;
 
 import java.time.Instant;

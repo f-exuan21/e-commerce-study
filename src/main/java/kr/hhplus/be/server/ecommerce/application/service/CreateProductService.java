@@ -4,8 +4,8 @@ import jakarta.transaction.Transactional;
 import kr.hhplus.be.server.ecommerce.application.port.dto.ProductQueryResult;
 import kr.hhplus.be.server.ecommerce.application.port.in.CreateProductUseCase;
 import kr.hhplus.be.server.ecommerce.application.port.out.SaveProductPort;
-import kr.hhplus.be.server.ecommerce.domain.model.Money;
-import kr.hhplus.be.server.ecommerce.domain.model.Product;
+import kr.hhplus.be.server.ecommerce.domain.model.money.Money;
+import kr.hhplus.be.server.ecommerce.domain.model.product.Product;
 import org.springframework.stereotype.Service;
 
 @Service

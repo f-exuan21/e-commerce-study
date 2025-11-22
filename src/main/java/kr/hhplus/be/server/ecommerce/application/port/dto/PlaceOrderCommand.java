@@ -1,7 +1,5 @@
 package kr.hhplus.be.server.ecommerce.application.port.dto;
 
-import kr.hhplus.be.server.ecommerce.domain.model.OrderItem;
-
 import java.util.List;
 
 public record PlaceOrderCommand(
